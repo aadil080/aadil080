@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aadil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring AI Engineer from India</h3>
 
 
-- 🔭 I’m currently working on **Personal Project.**
+- 🔭 I’m currently working on **Personal Projects.**
 
-- 🌱 I’m currently upscaling my knowledge in **React Native and Machine Learning.**
+- 🌱 I’m currently upscaling my knowledge in **Machine Learning & Artificial Intelligence.**
 
-- 👯 I’m looking to collaborate on **a Private Project.**
-
-- 💬 Ask me about **React Native, MySQL, TypeScript**
+- 💬 Ask me about **Python, C++, AI/ML**
 
 - 📫 How to reach me **aadilmohammad172@gmail.com**
 
